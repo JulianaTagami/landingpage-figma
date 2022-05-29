@@ -1,0 +1,81 @@
+body {
+    background-color: #181818;
+    font-family: 'Graphik', 'Times New Roman', Times, serif;
+}
+
+.cabeca {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 57px;
+    width: 549px;
+    height: 1235px;
+    background: #181818;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.nav-bar {
+    width: 549px;
+    height: 107px;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.img-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 10px;
+    position: absolute;
+    width: 206px;
+    height: 78px;
+    left: 24px;
+    top: 15px;
+}
+
+.nav-frame {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+    position: absolute;
+    width: 221px;
+    height: 53px;
+    right: 16px;
+    top: 28px;
+}
+
+.botao-login {
+    box-sizing: border-box;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    padding: 20px 36px;
+    width: 139px;
+    height: 52px;
+    border: 1px solid #FFFFFF;
+    filter: drop-shadow(0px 4px 31px rgba(0, 0, 0, 0.15));
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    background-color: #181818;
+}
+
+.botao-login-text {
+    color: #FFFFFF;
+}
+
+.img-vetor {
+    left: 16.67%;
+    right: 16.67%;
+    top: 25%;
+    bottom: 25%;
+}
