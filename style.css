@@ -122,6 +122,7 @@ body {
     color: #FFFFFF;
     font-family: 'Khula', sans-serif;
     cursor: pointer;
+    border: none;
 }
 
 .header-button-learn {
