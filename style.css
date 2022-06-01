@@ -258,7 +258,6 @@ body {
     align-items: center;
     padding: 10px 199px;
     gap: 35px;
-  
     height: 930.52px;
   }
   
@@ -403,7 +402,6 @@ body {
     align-items: center;
     padding: 50px 199px;
     gap: 35px;
-    width: 1579px;
     height: 1016px;
     background: #181818;
 }
@@ -412,10 +410,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 0px;
-    gap: 44px;
-    width: 1087px;
-    height: 916px;
+    padding: 50px 199px;
+    gap: 35px;
+    height: 1016px;
 }
 
 .gallery-frame-text {
@@ -426,3 +423,96 @@ body {
     width: 591px;
     height: 162px;
 }
+
+.gallery-frame-text h1{
+    width: 173px;
+    height: 62px;
+    font-family: var(--fonte-family);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 62px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
+
+.gallery-frame-text p{
+    width: 571px;
+    height: 60px;
+    font-family: var(--fonte-family);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20.5px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
+
+.gallery-frame-card-top {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 33px;
+    width: 999px;
+    height: 285px;
+}
+
+.gallery-frame-card-top img {
+    width: 225px;
+    height: 285px;
+    border-radius: 10px;
+}
+
+.gallery-frame-card-botton {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 33px;
+    width: 1087px;
+    height: 285px;
+}
+
+.gallery-frame-card-botton1 {
+    width: 395px;
+    height: 285px;
+    border-radius: 10px;
+}
+
+.gallery-frame-card-botton2 {
+    width: 225px;
+    height: 285px;
+    border-radius: 10px;
+}
+
+.gallery-frame-card-botton3 {
+    width: 401px;
+    height: 285px;
+    border-radius: 10px;
+}
+
+.gallery-frame-button {
+    width: 159px;
+    height: 52px;
+}
+
+.gallery-frame-button button {
+    align-items: center;
+    padding: 10px 30px;
+    width: 159px;
+    height: 52px;
+    border: 1px solid #FFFFFF;
+    background-color: #181818;
+    color: #FFFFFF;
+    text-align: center;
+    filter: drop-shadow(0px 4px 31px rgba(0, 0, 0, 0.15));
+    font-family: var(--fonte-family);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 25px;
+    letter-spacing: 0.2px;
+}
+
