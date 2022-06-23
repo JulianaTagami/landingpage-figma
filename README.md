@@ -1,6 +1,6 @@
 ><h1>Landing Page</h1>
 >
->![logo](https://user-images.githubusercontent.com/102624691/175278041-e4bcaaa4-12cd-4e54-8b1d-b252f859f2a4.jpg)
+><img width="1067" alt="Screenshot 2022-06-23 at 22 16 02" src="https://user-images.githubusercontent.com/100166870/175403518-641a79ba-2a6b-44c3-b727-898ef81aa3e4.png">
 
 
 
@@ -11,12 +11,13 @@
 >
 >To do this challenge you need a basic understanding of HTML and CSS.
 >
->![page](https://user-images.githubusercontent.com/102624691/175270754-0d8d2b98-ed98-4388-b3ef-3b255d75685e.png)
+><img width="1032" alt="Screenshot 2022-06-23 at 22 17 40" src="https://user-images.githubusercontent.com/100166870/175403458-e276ad60-f720-4d87-87c6-24bf4e151b05.png">
+
 
 
 
 ><h2>My Project</h2>
-> This is the final version of my project: https://trainingcodes-clone-figma.vercel.app
+> Link to version of my project: https://trainingcodes-clone-figma.vercel.app
 >
 >
 > To develop the project and make it more semantic I used tags like header, main, section and footer in HTML.
